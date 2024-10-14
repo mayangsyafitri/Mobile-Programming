@@ -1,6 +1,5 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_svg/flutter_svg.dart';
-
 import 'edit_profile_screen.dart';
 import 'message_screen.dart';
 import 'profile_screen.dart';
